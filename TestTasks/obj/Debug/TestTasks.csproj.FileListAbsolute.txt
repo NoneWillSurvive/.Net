@@ -1,0 +1,10 @@
+C:\Users\Kirill\Desktop\.NetUniversityCourse\TestTasks\bin\Debug\TestTasks.exe
+C:\Users\Kirill\Desktop\.NetUniversityCourse\TestTasks\bin\Debug\TestTasks.pdb
+C:\Users\Kirill\Desktop\.NetUniversityCourse\TestTasks\obj\Debug\TestTasks.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\.NetUniversityCourse\TestTasks\obj\Debug\TestTasks.exe
+C:\Users\Kirill\Desktop\.NetUniversityCourse\TestTasks\obj\Debug\TestTasks.pdb
+C:\Users\Kirill\Desktop\.net\TestTasks\bin\Debug\TestTasks.exe
+C:\Users\Kirill\Desktop\.net\TestTasks\bin\Debug\TestTasks.pdb
+C:\Users\Kirill\Desktop\.net\TestTasks\obj\Debug\TestTasks.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\.net\TestTasks\obj\Debug\TestTasks.exe
+C:\Users\Kirill\Desktop\.net\TestTasks\obj\Debug\TestTasks.pdb
